@@ -1,0 +1,9 @@
+package com.sathya.springex.Formersrole;
+
+public class Work {
+	public void WorkInfo() {
+		System.out.println("some work is simple");
+		System.out.println("it takes less time");
+	}
+
+}

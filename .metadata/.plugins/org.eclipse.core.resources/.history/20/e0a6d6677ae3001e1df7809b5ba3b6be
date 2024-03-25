@@ -1,0 +1,3 @@
+package com.sathya.springex.Formersrole;
+
+import org.springframework.stereotype.Component;

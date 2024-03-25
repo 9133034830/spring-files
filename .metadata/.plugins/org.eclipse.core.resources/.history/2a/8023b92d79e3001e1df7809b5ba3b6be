@@ -1,0 +1,24 @@
+package com.sathya.springex.Formersrole;
+
+public class Former {
+	private String work;
+	private HardWork hardWork;
+	public String getWork() {
+		return work;
+	}
+	public void setWork(String string) {
+		this.work = string;
+	}
+	public HardWork getHardWork() {
+		return hardWork;
+	}
+	public void setHardWork(HardWork hardWork) {
+		this.hardWork = hardWork;
+	}
+	public void FormerInfo() {
+		work.WorkInfo();
+		hardWork.HardWorkInfo();
+	}
+	
+
+}
